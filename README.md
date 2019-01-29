@@ -41,4 +41,10 @@ react-native-rename "Travel App"
 react-native-rename "Travel App" -b com.junedomingo.travelapp
 ```
 
+
+#### My Fork demo
+```
+kutecolor.com and mobile app, speed-reading app and mobile app: 1k downloads
+```
+
 <a href="https://www.buymeacoffee.com/junedomingo"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;"  target="_blank"></a>
